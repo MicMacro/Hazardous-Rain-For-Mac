@@ -1,11 +1,3 @@
-//
-//  GameScene.swift
-//  Hazardous Rain
-//
-//  Created by James McNulty on 6/6/19.
-//  Copyright © 2019 MicMacro. All rights reserved.
-//
-
 import SpriteKit
 import GameplayKit
 
